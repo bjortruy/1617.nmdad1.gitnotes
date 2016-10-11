@@ -1,25 +1,30 @@
-Naam: 					Truye Bjorn Jeannette M
-
-Geboorteplaats en –datum: 			Wetteren 22 MEI 1996
-
-Thuisadress en telefoonnummer:		Schoolstraat 20 9270 Laarne
-Tel.  09/368 15 92
-
-Gsm-nummer: 		04-798-631-75
-
-Diploma’s: 					Initiator actuele dans.
-
-Rijbewijs en eigen auto:	Ja.
-
-Vrijetijdsbesteding: 		Dans (Breakin’ en HipHop-stijlen) en computer.
-
-Vooropleiding secundair onderwijs: 	Afgestudeerd in ASO Humane Wetenschappen
-
-Huidige opleiding:	Digitale en grafische media met multimediaproductie als afstudeerrichting
-
-Talenkennis: 				
-
+Personalia (persoonlijke gegevens)
+Volledige naam: Truye Bjorn Jeannette M
+Adres en woonplaats: Schoolstraat 20 9270 Laarne
+Geboortedatum: 22 Mei 1996
+Geslacht: M
+Nationaliteit: Man
+Burgerlijke staat: Ongehuwd
+Telefoonnummer: 09/368/15.92
+E-mailadres: bjortruy@student.arteveldehs.be
+Website: /
+Social Media: /
+Opleiding(en): ASO Humane Wetenschappen, Initiator actuele dans
+Werkervaring(en): Dansleerkracht 
+Cursussen en Workshops: /
+Nevenactiviteit(en): /
+Computerkennis: 1 jaar afgestudeerd op AHS in de MMP
+Software: Windows en Mac
+Webtechnologie: /
+Programmeertalen: /
+Favoriete websites en apps: /
+Talenkennis: 
 o	Nederlands 	moedertaal
 o	Engels		mondeling zeer goed, schriftelijk goed
 o	Frans		mondeling semi, schriftelijk semi
 o	Duits 		mondeling goed, schriftelijk goed
+Geef eerlijk het niveau van je taalvaardigheid aan.
+
+Overige
+Sinds 2016 begonnen met een elektrische gitaar.
+Rijbewijs en eigen auto:	Ja.
