@@ -18,11 +18,11 @@ Software: Windows en Mac
 Webtechnologie: /
 Programmeertalen: /
 Favoriete websites en apps: /
-Talenkennis: 
-o	Nederlands 	moedertaal
-o	Engels		mondeling zeer goed, schriftelijk goed
-o	Frans		mondeling semi, schriftelijk semi
-o	Duits 		mondeling goed, schriftelijk goed
+>**Talenkennis:** 
+>- Nederlands 	moedertaal
+>- 	Engels		mondeling zeer goed, schriftelijk goed
+>- 	Frans		mondeling semi, schriftelijk semi
+>- 	Duits 		mondeling goed, schriftelijk goed
 Geef eerlijk het niveau van je taalvaardigheid aan.
 
 Overige
